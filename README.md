@@ -4,7 +4,7 @@
 
 1. copy the setup.sh file to your cloud9 workspace:
 ```
-   curl url_here -o "$HOME/workspace/setup.sh" 
+   curl https://raw.githubusercontent.com/flatironcloud9test/cloud9/master/setup.sh -o "$HOME/workspace/setup.sh" 
 ```
 2. check that the script looks the same in your workspace as it does on GitHub and then run it:
 ```
